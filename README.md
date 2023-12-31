@@ -1,2 +1,2 @@
 # Uang
-Program Konversi Uang dengan Python
+Xmrig simple installation
