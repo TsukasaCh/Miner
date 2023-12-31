@@ -1,2 +1,2 @@
-# Uang
+# xmrig
 Xmrig simple installation
