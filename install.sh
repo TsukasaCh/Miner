@@ -9,19 +9,19 @@ sleep 1
 clear
 echo -e "\033[32mInstalling Package\033[0m"
 sleep 1
-apt install git
+apt install git -y
 clear
-apt install build-essential
+apt install build-essential -y
 clear
-apt install cmake
+apt install cmake -y
 clear
-apt install libuv1-dev
+apt install libuv1-dev -y
 clear
-apt install libmicrohttpd-dev
+apt install libmicrohttpd-dev -y
 clear
-apt install libssl-dev
+apt install libssl-dev -y
 clear
-apt install libhwloc-dev
+apt install libhwloc-dev -y
 echo -e "\033[32mDependencies and all packages successfully installed\033[0m"
 sleep 2
 echo -e "\033[32mMembuat Directory Miner...\033[0m"
